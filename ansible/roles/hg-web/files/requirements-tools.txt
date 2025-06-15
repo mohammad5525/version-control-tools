@@ -49,7 +49,7 @@ python-dateutil==2.9.0.post0 \
 python-hglib==2.6.2 \
     --hash=sha256:b18bd1ed53c90ee57d5714d66ad6bb72b64e930d4aeca9830892c08bb28da608
     # via -r ansible/roles/hg-web/files/requirements-tools.in
-requests==2.27.1 \
+requests==2.32.4 \
     --hash=sha256:68d7c56fd5a8999887728ef304a6d12edc7be74f1cfa47714fc8b414525c9a61 \
     --hash=sha256:f22fa1e554c9ddfd16e6e41ac79759e17be9e492b3587efa038054674760e72d
     # via -r ansible/roles/hg-web/files/requirements-tools.in
