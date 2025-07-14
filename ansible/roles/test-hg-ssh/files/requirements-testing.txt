@@ -307,7 +307,7 @@ six==1.16.0 \
     # via
     #   moto
     #   python-dateutil
-urllib3==1.26.19 \
+urllib3==2.5.0 \
     --hash=sha256:37a0344459b199fce0e80b0d3569837ec6b6937435c5244e7fd73fa6006830f3 \
     --hash=sha256:3e3d753a8618b86d7de333b4223005f68720bcd6a7d2bcb9fbd2229ec7c1e429
     # via
