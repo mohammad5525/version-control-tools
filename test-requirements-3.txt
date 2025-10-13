@@ -633,7 +633,7 @@ python-hglib==2.6.2 \
     # via
     #   -r pylib/vcsreplicator/requirements.in
     #   -r test-requirements-3.in
-python-ldap==3.4.3 \
+python-ldap==3.4.5 \
     --hash=sha256:ab26c519a0ef2a443a2a10391fa3c5cb52d7871323399db949ebfaa9f25ee2a0
     # via -r test-requirements-3.in
 pyyaml==5.4.1 \
