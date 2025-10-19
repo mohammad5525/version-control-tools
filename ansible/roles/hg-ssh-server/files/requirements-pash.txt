@@ -67,7 +67,7 @@ pyasn1-modules==0.4.2 \
     --hash=sha256:29253a9207ce32b64c3ac6600edc75368f98473906e8fd1043bd6b5b1de2c14a \
     --hash=sha256:677091de870a80aae844b1ca6134f54652fa2c8c5a52aa396440ac3106e941e6
     # via python-ldap
-python-ldap==3.4.4 \
+python-ldap==3.4.5 \
     --hash=sha256:7edb0accec4e037797705f3a05cbf36a9fde50d08c8f67f2aef99a2628fab828
     # via -r ansible/roles/hg-ssh-server/files/requirements-pash.in
 sentry-sdk==0.7.14 \
