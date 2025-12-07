@@ -7,7 +7,7 @@
 --find-links https://s3-us-west-2.amazonaws.com/moz-packages/pypi/index.html
 --find-links https://s3-us-west-2.amazonaws.com/moz-packages/pypi/index.html
 
-ansible==4.8.0 \
+ansible==12.0.0 \
     --hash=sha256:1345fa61c9ac2edcc6c16e0d3f872a73303a61b799a7f16236ca6279e0ae8e36
     # via -r ansible/files/requirements-ansible.in
 ansible-core==2.11.12 \
