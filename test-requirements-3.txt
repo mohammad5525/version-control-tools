@@ -10,7 +10,7 @@ amqp==5.1.1 \
     --hash=sha256:2c1b13fecc0893e946c65cbd5f36427861cffa4ea2201d8f6fca22e2a373b5e2 \
     --hash=sha256:6f0956d2c23d8fa6e7691934d8c3930eadb44972cbbd1a7ae3a520f735d43359
     # via kombu
-ansible==4.8.0 \
+ansible==12.0.0 \
     --hash=sha256:1345fa61c9ac2edcc6c16e0d3f872a73303a61b799a7f16236ca6279e0ae8e36
     # via -r ansible/files/requirements-ansible.in
 ansible-core==2.11.12 \
@@ -770,7 +770,7 @@ typing-extensions==4.7.1 \
     #   importlib-metadata
     #   platformdirs
     #   responses
-urllib3==1.26.17 \
+urllib3==2.6.0 \
     --hash=sha256:24d6a242c28d29af46c3fae832c36db3bbebcc533dd1bb549172cd739c82df21 \
     --hash=sha256:94a757d178c9be92ef5539b8840d48dc9cf1b2709c9d6b588232a055c524458b
     # via
