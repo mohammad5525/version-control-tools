@@ -404,7 +404,7 @@ six==1.12.0 \
     --hash=sha256:3350809f0555b11f552448330d0b52d5f24c91a322ea4a15ef22629740f3761c \
     --hash=sha256:d16a0141ec1a18405cd4ce8b4613101da75da0e9a7aec5bdd4fa804d0e0eba73 \
     # via blessings, cryptography, docker, docker-pycreds, mock, more-itertools, moto, mozfile, pathlib2, pytest, python-dateutil, python-jose, responses, websocket-client
-urllib3==1.24.1 \
+urllib3==2.6.0 \
     --hash=sha256:61bf29cada3fc2fbefad4fdf059ea4bd1b4a86d2b6d15e1c7c0b582b9752fe39 \
     --hash=sha256:de9529817c93f27c8ccbfead6985011db27bd0ddfcdb2d86f3f663385c6a9c22 \
     # via botocore, requests
