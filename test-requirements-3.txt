@@ -81,7 +81,7 @@ cached-property==1.5.2 \
     # via
     #   docker-compose
     #   kombu
-cbor2==4.1.2 \
+cbor2==5.8.0 \
     --hash=sha256:17b615da69964f87e48c5adb34ba63db3068f65b9cd14a7b099503d9f8a0e9ae \
     --hash=sha256:6391fd3d2a4e976ecf892638a0a2a88d85e6764124bf9f128a945bfefefe77dc
     # via -r pylib/vcsreplicator/requirements.in
