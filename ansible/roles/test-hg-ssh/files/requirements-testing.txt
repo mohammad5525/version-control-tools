@@ -307,13 +307,13 @@ six==1.16.0 \
     # via
     #   moto
     #   python-dateutil
-urllib3==1.26.19 \
+urllib3==2.6.3 \
     --hash=sha256:37a0344459b199fce0e80b0d3569837ec6b6937435c5244e7fd73fa6006830f3 \
     --hash=sha256:3e3d753a8618b86d7de333b4223005f68720bcd6a7d2bcb9fbd2229ec7c1e429
     # via
     #   botocore
     #   requests
-werkzeug==3.0.3 \
+werkzeug==3.1.5 \
     --hash=sha256:097e5bfda9f0aba8da6b8545146def481d06aa7d3266e7448e2cccf67dd8bd18 \
     --hash=sha256:fc9645dc43e03e4d630d23143a04a7f947a9a3b5727cd535fdfe155a17cc48c8
     # via
